@@ -21,7 +21,7 @@ Options: -b          FILE  input BAM file
          -y          FILE  produce stats files with percent id, ali for each alignement
          -v                verbose mode
          -h                help
-         exemple pour tara : bamFilters -b ./in.bam -i 95 -a 80 -r 75 -n 30 -o ./out.bam -u ./out.uniq.bam 
+         example : bamFilters -b ./in.bam -i 95 -a 80 -r 75 -n 30 -o ./out.bam -u ./out.uniq.bam 
 
 --------------------------------------------------------------------------------------------
 ```
