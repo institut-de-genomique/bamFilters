@@ -4,8 +4,6 @@ A utility tool to filter alignments from bam files, using identity percent, low 
 ```
 bamFilters -h 
 --------------------------------------------------------------------------------------------
-v-2019.01.22.0
-compiled with dynamic htslib from samtools/1.10.2
 Usage:   bamFilters -b <in.bam> -o <out.bma> [-u <out.uniq.bam>] [options] 
 
 Options: -b          FILE  input BAM file
